@@ -19,7 +19,7 @@ const FooterSection = () => {
                     </div>
                 </div>
                 <div>
-                    <p>Copyright © 2022 - All right reserved by Quizzer</p>
+                    <p>Copyright © 2022 - All right reserved by Quiz Zone</p>
                 </div>
             </footer>
         </div>
