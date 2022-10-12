@@ -2,8 +2,8 @@ import React from 'react';
 
 const Blog = () => {
     return (
-        <div className='my-10 grid gap-5 w-4/5 mx-auto bg-slate-300 rounded-xl py-20'>
-            <h1 className='text-5xl text-center mb-10'>Questions & Answer</h1>
+        <div className='my-10 grid gap-5 w-4/5 mx-auto bg-info rounded-xl py-20'>
+            <h1 className='text-5xl text-center mb-10 text-primary'>Questions & Answer</h1>
 
             <div className="collapse collapse-arrow w-4/5 mx-auto rounded-xl">
                 <input type="checkbox" className="peer" />

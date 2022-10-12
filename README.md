@@ -6,4 +6,4 @@ Quiz Zone
 
 GitHub repository link: https://github.com/programming-hero-web-course2/b6-quiz-crackerz-IttehadZumar 
 
-Live Site Link: 
+Live Site Link: https://quiz-zone-byittehad.netlify.app/ 
